@@ -58,9 +58,6 @@ google_analytics:
 
 # Build settings
 remote_theme: chrisbobbe/jekyll-theme-prologue
-plugins:
-  - jekyll-sitemap
-  - jekyll-feed
 
 # The following settings are NECESSARY for the Prologue theme to run:
 collections: [sections]
